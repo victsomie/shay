@@ -345,3 +345,34 @@ p a {
   padding: 22px 0;
   text-align: center;
 }
+
+
+
+
+
+form{
+    font-size: 30px;
+    padding: 50px;
+    text-align: left;
+}
+
+legend{
+   font-size: 50px;
+    font-weight: 800;
+}
+fieldset{
+      border: 2px solid black;  
+    border-radius: 6px;  
+    padding: 24px 30px;
+}
+
+caption{
+    
+}
+
+.fw{
+    width: 50%;
+    min-height: 30px;
+    margin: 2px;
+    
+}
