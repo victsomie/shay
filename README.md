@@ -1,3 +1,3 @@
 # shay
 
-Site followup on Shay Howe note
+Site based on Shaw howe content
